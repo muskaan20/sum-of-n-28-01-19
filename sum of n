@@ -1,0 +1,33 @@
+#include<stdio.h>
+int input()
+{
+	int i, add[i],n , sum=0;
+	printf("Enter n numbers:");
+	scanf("%d",&n);
+	printf("Enter the '%d' numbers:",n);
+	scanf("%d",&n);
+	for(i=0;i<n;i++)
+	{
+		printf("%d",&n);
+	}
+}
+int sum(int j)
+{
+	int n,add[j];
+	n=n+add[j];
+	for(j=0;j<n;j++)
+	{
+		printf("%d",&add[j]);
+	}
+}
+int output(int a)
+{
+	printf("Sum of n numbers is %d",a);
+}
+int main()
+{
+     int n,a, j, add[j] ;
+	 input(n);
+	 n+=add[j];
+	 output(a);
+}
